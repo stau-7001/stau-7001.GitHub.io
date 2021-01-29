@@ -1,20 +1,12 @@
-## Welcome to my personal homepage
+## Welcome to My Personal Homepage
 
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Personal Information
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
+- Name:刘雨田
+- Gender: Male
+- Contact:stau7001@sjtu.edu.cn
 
 1. Numbered
 2. List
