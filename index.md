@@ -12,8 +12,8 @@ Personal Information
 
 
 
-# Education
-## Chengdu Jiaxiang Foreign Languages School
-## Shanghai Jiao Tong University
+## Education
+### Chengdu Jiaxiang Foreign Languages School
+### Shanghai Jiao Tong University
 
 
