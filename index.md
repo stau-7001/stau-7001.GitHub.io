@@ -1,8 +1,8 @@
-## Welcome to My Personal Homepage
+# Welcome to My Personal Homepage
 
 
 ```markdown
-Personal Information
+##Personal Information
 
 - Name:刘雨田
 - Gender: Female
@@ -13,7 +13,7 @@ Personal Information
 
 
 ## Education
-### Chengdu Jiaxiang Foreign Languages School
-### Shanghai Jiao Tong University
+- Chengdu Jiaxiang Foreign Languages School
+- Shanghai Jiao Tong University
 
 
